@@ -1,10 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: UMA's Future
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+People have asked me multiple times if they can recreate this army. Here's my answer.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+No. Go outside and get a life. UMA died when CPA died. Stop playing a game that was made for 10 year olds.
